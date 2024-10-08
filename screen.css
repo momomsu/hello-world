@@ -17,7 +17,12 @@ body {
 
   }
 
-  .details section
+  .details section{
+    flex-grow: 1;
+    flex-basis: 0;
+    background: #eee;
+
+  }
 
 
 
