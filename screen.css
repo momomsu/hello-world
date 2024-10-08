@@ -19,7 +19,7 @@ body {
 
   .details section{
     flex-grow: 1.5;
-    flex-basis: 0.5;
+    flex-basis: 1;
     background: #eee;
 
   }
