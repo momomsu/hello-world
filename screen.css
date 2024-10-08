@@ -6,6 +6,17 @@ body {
     margin: 0;
 }
 
+  main {
+    margin: 0 auto;
+    width: 80%;
+
+  }
+
+  .details {
+    display: flex;
+
+  }
+
 img {
-    width: 100%;
+    width: 70%;
 }
